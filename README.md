@@ -4,8 +4,7 @@
 - 🔭 I’m currently working on a [web app](https://github.com/raissonsouto/bin2dec)!
 - 🌱 I’m currently learning js tools (Node, Express, React, electron, puppeteer, ...)
 - 👯 I’m looking to collaborate with Open Source projects
-- 🥅 2020 Goals: Create a [web app](https://github.com/raissonsouto/bin2dec), a [web extension](https://github.com/raissonsouto/games4free), a [mobile app](https://github.com/raissonsouto/loop) and a [desktop app](https://github.com/raissonsouto/franky)
-[]: # '- ⚡ Fun fact: I love to' 
+- 🥅 2020 Goals: Create a [web app](https://github.com/raissonsouto/bin2dec), a [web extension](https://github.com/raissonsouto/games4free), a [mobile app](https://github.com/raissonsouto/loop) and a [desktop app](https://github.com/raissonsouto/franky) 
 
 ## Connect with me:
 
@@ -15,8 +14,6 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/raissonsouto)
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCvPUTnTXWzwUebmLrQl0QIA)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />](https://twitch.tv/raissonz)<br/>
-
-[]: # 'quando eu lançar o 5o video, colocar aq' 
 
 ## Languages and Tools:
 
@@ -28,5 +25,3 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="bash file" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-[]: # 'quando terminar os projetos: colocar puppeteer, electron, react native e oq mais eu usar' 
