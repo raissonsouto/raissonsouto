@@ -1,12 +1,12 @@
 ### Hey there, I'm Raisson Souto 👋
 
-## I'm a Gamer, Student, Developer, and Content Creator!
+### I'm a Gamer, Student, Developer, and Content Creator!
 - 🔭 I’m currently working on a [web app](https://github.com/raissonsouto/bin2dec)!
-- 🌱 I’m currently learning js tools (Node, Express, React, electron, puppeteer, ...)
+- 🌱 I’m currently learning js tools (Node, Express, React, Electron, Puppeteer, ... )
 - 👯 I’m looking to collaborate with Open Source projects
 - 🥅 2020 Goals: Create a [web app](https://github.com/raissonsouto/bin2dec), a [web extension](https://github.com/raissonsouto/games4free), a [mobile app](https://github.com/raissonsouto/loop) and a [desktop app](https://github.com/raissonsouto/franky) 
 
-## Connect with me:
+### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](raissonsouto.github.io)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/raissonsouto/)
@@ -15,7 +15,7 @@
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCvPUTnTXWzwUebmLrQl0QIA)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />](https://twitch.tv/raissonz)<br/>
 
-## Languages and Tools:
+### Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
