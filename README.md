@@ -1,6 +1,6 @@
 ### Hey there, I'm Raisson Souto 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Gamer, Student, Developer, and Content Creator!
 - 🔭 I’m currently working on a [web app](https://github.com/raissonsouto/bin2dec)!
 - 🌱 I’m currently learning js tools (Node, Express, React, electron, puppeteer, ...)
 - 👯 I’m looking to collaborate with Open Source projects
