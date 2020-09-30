@@ -2,9 +2,9 @@
 
 ### I'm a Gamer, Student, Developer, and Content Creator!
 - 🔭 I’m currently working on a [web app](https://github.com/raissonsouto/bin2dec)!
-- 🌱 I’m currently learning js tools (Node, Express, React, Puppeteer, ... )
+- 🌱 I’m currently learning js tools (Node, Express, React, Puppeteer, ... ) and Java
 - 🤓 I’m looking to collaborate with Open Source projects
-- 🥅 2020 Goals: Create a [web app](https://github.com/raissonsouto/bin2dec), a [web extension](https://github.com/raissonsouto/games4free) and a [mobile app](https://github.com/raissonsouto/loop)
+- 🥅 2020 Goals: Create a [web app](https://github.com/raissonsouto/bin2dec), and a [web extension](https://github.com/raissonsouto/games4free)
 
 ### Connect with me:
 
