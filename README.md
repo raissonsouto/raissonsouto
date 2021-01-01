@@ -1,8 +1,8 @@
 ### Hey there, I'm Raisson Souto 👋
 
 ### I'm a Student, Developer, and Content Creator!
-- 🔭 I’m currently working on a [web app](https://github.com/raissonsouto/bin2dec)!
-- 🌱 I’m currently learning js tools (Node, Express, React, Puppeteer, ... ) and Java.
+[comment]: <> (- 🔭 I’m currently working on a [web app](https://github.com/raissonsouto/bin2dec).)
+- 🌱 I’m currently learning .
 - 🤓 I’m looking to collaborate with Open Source projects.
 - 🥅 2021 Goals: Improve my [react app](https://github.com/raissonsouto/bin2dec).
 
