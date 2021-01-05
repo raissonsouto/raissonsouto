@@ -1,4 +1,4 @@
-### Hey there, I'm Raisson Souto 👋.
+### Hey there, I'm Raisson Souto 👋
 
 ### I'm a Student, Developer, and Content Creator!
 <!-- - 🔭 I’m currently working on a [web app](https://github.com/raissonsouto/bin2dec). -->
