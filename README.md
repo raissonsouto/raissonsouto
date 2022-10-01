@@ -2,7 +2,7 @@
 
 ### I'm a Student, Developer, and Gamer!
 <!-- - 🔭 I’m currently working on a [web app](https://github.com/raissonsouto/bin2dec). -->
-- 🌱 I’m currently learning about cyber security.
+- 🌱 I’m currently learning about cybersecurity.
 - 🤓 I’m looking to collaborate with Open Source projects.
 <!--
 - 🥅 2021 Goals: Improve my [react app](https://github.com/raissonsouto/bin2dec).
