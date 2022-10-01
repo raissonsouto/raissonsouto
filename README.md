@@ -20,4 +20,4 @@
 
 [![Gmail Badge](https://img.shields.io/badge/GMAIL-%23DC322F.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:raisson.souto@ccc.ufcg.edu.br)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raissonsouto/)
-[![Youtube Badge](https://img.shields.io/badge/youtube%20-%23DC322F.svg?&style=for-the-badge&logo=youtube&logoColor=white)
+[![Youtube Badge](https://img.shields.io/badge/youtube%20-%23DC322F.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCvPUTnTXWzwUebmLrQl0QIA)
