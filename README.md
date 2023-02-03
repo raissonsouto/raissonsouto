@@ -1,13 +1,10 @@
 ### Hey there, I'm Raisson Souto 👋
 
 ### I'm a Student, Developer, and Gamer!
-<!-- - 🔭 I’m currently working on a [web app](https://github.com/raissonsouto/bin2dec). -->
+- 🔭 I’m currently working on a [authentication microsservice](https://github.com/raissonsouto/bifrost).
 - 🌱 I’m currently learning about cybersecurity.
 - 🤓 I’m looking to collaborate with Open Source projects.
-<!--
-- 🥅 2021 Goals: Improve my [react app](https://github.com/raissonsouto/bin2dec).
 
-<!--
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/.png" />
