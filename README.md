@@ -1,6 +1,5 @@
 ### Hey there, I'm Raisson Souto 👋
 
-### I'm a Student, Developer, and Gamer!
 - 🔭 I’m currently working on a plugin for [Spire](https://github.com/spiffe/spire) (a toolchain for establishing trust between systems).
 - 🌱 Learning about cybersecurity and cloud computing.
 
