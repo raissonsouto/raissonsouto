@@ -1,6 +1,6 @@
 ### Hey there, I'm Raisson Souto 👋
 
-- 🔭 I’m currently working at [Distributed Systems Labs](https://github.com/ufcg-lsd) along with [Scotain](https://github.com/scontain).
+- 🔭 I’m currently working at [Distributed Systems Labs](https://github.com/ufcg-lsd) along with [Scontain](https://github.com/scontain).
 - 🌱 Focus on security engineering for distributed systems.
 <!--
 ### Languages and Tools:
